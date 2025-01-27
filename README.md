@@ -1,4 +1,3 @@
-"""
 # Powerplant Coding Challenge Solution
 
 ## Overview
